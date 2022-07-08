@@ -1,0 +1,7 @@
+{
+  "name": "bookstoreapp",
+  "version": "1.0.0",
+  "scripts": {
+    "run":"cd ./frontend/bookstore/; npm run start && cd ./frontend/shell/; npm run start"
+  }
+}
